@@ -1,6 +1,6 @@
 # Identity & Access Management (IAM) in Cloud Security
 
-This repository covers Identity & Access Management (IAM) concepts with a focus on cloud environments — particularly Microsoft Azure, but also AWS and GCP.
+This repository covers Identity & Access Management (IAM) concepts with a focus on cloud environments particularly Microsoft Azure, but also AWS and GCP.
 
 ---
 
