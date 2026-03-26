@@ -1,7 +1,5 @@
 # Identity & Access Management (IAM) in Cloud Security
 
-> Learning notes and resources for a Cybersecurity Bachelor student.
-
 This repository covers Identity & Access Management (IAM) concepts with a focus on cloud environments — particularly Microsoft Azure, but also AWS and GCP.
 
 ---
