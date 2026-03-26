@@ -31,4 +31,4 @@ Document my learning journey through cybersecurity studies, build a reference li
 
 ---
 
-*Maintained by [@jiroos323](https://github.com/jiroos323) — 2nd year IT/Cybersecurity student*
+*Maintained by [@jiroos323](https://github.com/jiroos323)
