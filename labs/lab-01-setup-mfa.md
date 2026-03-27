@@ -54,11 +54,3 @@ Test user cannot access any Microsoft cloud app without completing MFA — even 
 - What is the difference between per-user MFA and Conditional Access MFA?
 
 ---
-
-## Notes
-
-```
-✅ Completed: [date]
-Observations: 
-Issues encountered:
-```
