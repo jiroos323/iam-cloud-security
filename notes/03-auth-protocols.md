@@ -17,13 +17,13 @@ OAuth 2.0 is an **authorization framework** that allows third-party apps to acce
 - **Client Credentials** – Machine-to-machine (no user involved)
 - **Device Code** – For devices with limited input (e.g., smart TVs)
 
-> ⚠️ **Implicit flow** is deprecated — avoid it in new applications.
+> ⚠️ **Implicit flow** is deprecated avoid it in new applications.
 
 ---
 
 ## OpenID Connect (OIDC)
 
-OIDC is an **identity layer on top of OAuth 2.0**. While OAuth 2.0 handles authorization, OIDC adds **authentication** — it tells the application *who* the user is.
+OIDC is an **identity layer on top of OAuth 2.0**. While OAuth 2.0 handles authorization, OIDC adds **authentication** it tells the application *who* the user is.
 
 - Returns an **ID Token** (JWT) containing user identity claims
 - Used by Microsoft Sign-in, Google Login, GitHub OAuth
@@ -43,7 +43,7 @@ OIDC is an **identity layer on top of OAuth 2.0**. While OAuth 2.0 handles autho
 
 ## SAML 2.0
 
-Security Assertion Markup Language — XML-based protocol for **federated SSO** (Single Sign-On).
+Security Assertion Markup Language XML-based protocol for **federated SSO** (Single Sign-On).
 
 ### Use Case
 Commonly used in enterprise environments to allow employees to sign in once and access multiple applications (e.g., corporate SSO to Salesforce, Workday).
