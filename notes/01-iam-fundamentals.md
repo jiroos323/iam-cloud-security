@@ -2,7 +2,7 @@
 
 ## What is Identity & Access Management?
 
-IAM is a framework of policies, processes, and technologies that ensures the right people (and systems) have the right access to the right resources — at the right time.
+IAM is a framework of policies, processes, and technologies that ensures the right people (and systems) have the right access to the right resources at the right time.
 
 ---
 
