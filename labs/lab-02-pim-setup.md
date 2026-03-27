@@ -59,11 +59,3 @@ Test user gains Global Administrator access for 1 hour only, with a full audit t
 - How does PIM reduce the risk of a compromised admin account?
 
 ---
-
-## Notes
-
-```
-✅ Completed: [date]
-Observations:
-Issues encountered:
-```
